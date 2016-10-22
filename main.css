@@ -1,0 +1,43 @@
+
+
+body {
+    border: 0px;
+    margin: 0px;
+    font-family: amplitude;
+    font-size: 18px;
+    letter-spacing: 3px;
+}
+
+.header {
+    background: white;
+    width: 100%;
+    height: auto;
+    text-align: center;
+    border-bottom: solid 1px #D6D7DC;
+    color: #000;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.tag {
+    position: fixed;
+    right: 0px;
+    top: 0px;
+}
+
+.txt {
+    color: #534E68;
+    font-size: 18px;
+    padding-top: 30px;
+    font-weight: bold;
+
+}
+
+.txt2 {
+    color: #8258B6;
+    font-size: 18px;
+    padding-top: 20px;
+    font-weight: bold;    
+}
+
+
