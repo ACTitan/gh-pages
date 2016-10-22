@@ -1,5 +1,4 @@
 
-
 body {
     border: 0px;
     margin: 0px;
@@ -37,7 +36,38 @@ body {
     color: #8258B6;
     font-size: 18px;
     padding-top: 20px;
+    padding-bottom: 40px;
     font-weight: bold;    
 }
 
+.monito1 {
+    width: 100%;
+    height: 550px;
+    text-align: center;
+    font-size: 11px;
+    background-color: #F4F4F4;
+    border: 30px;
+    border-color: black;
+    border-bottom: solid 1px #D6D7DC;
+}
+.monito2 {
+    width: 100%;
+    height: 550px;
+    text-align: center;
+    font-size: 11px;
+    background-color: #dfecf5;
+    border: 30px;
+    border-color: black;
+    border-bottom: solid 1px #D6D7DC;
+}
+.monito3 {
+    width: 100%;
+    height: 550px;
+    text-align: center;
+    font-size: 11px;
+    background-color: ##dfe0f4;
+    border: 30px;
+    border-color: black;
+    border-bottom: solid 1px #D6D7DC;
+}
 
